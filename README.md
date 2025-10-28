@@ -14,7 +14,7 @@ My goal is to complete two problems per day. Each solution folder contains:
 | :--- | :--- | :--- |
 | **Day 1** | [2667. Create Hello World Function](./Day-01/2667-HelloWorld/) | [2620. Counter](./Day-01/2620-Counter/) |
 | **Day 2** | [2704. To Be or Not To Be](./Day-02//2704-ToBeOrNotToBe/) | [2665. Counter II](./Day-02/2665-CounterII/) |
-| **Day 3** | (Problem 5) | (Problem 6) |
+| **Day 3** | [2635. Apply Transform Over Each Element in Array](./Day-03/2635-ApplyTransformOverEachElementInArray/) | [2634. Filter Elements from Array](./Day-03/2634-FilterElementsFromArray/2634-FilterElementsFromArray/) |
 | **Day 4** | (Problem 7) | (Problem 8) |
 | **Day 5** | (Problem 9) | (Problem 10) |
 | **Day 6** | (Problem 11) | (Problem 12) |
