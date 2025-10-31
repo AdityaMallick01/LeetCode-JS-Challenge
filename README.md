@@ -17,7 +17,7 @@ My goal is to complete two problems per day. Each solution folder contains:
 | **Day 3** | [2635. Apply Transform Over Each Element in Array](./Day-03/2635-ApplyTransformOverEachElementInArray/) | [2634. Filter Elements from Array](./Day-03/2634-FilterElementsFromArray/) |
 | **Day 4** | [2626. Array Reduce Transformation](./DAY-04/2626-ArrayReduceTransformation/) | [2629. Function Composition](./DAY-04/2629-FunctionComposition/) |
 | **Day 5** | [2703. Return Length of Arguments Passed](./Day-05/2703-ReturnLengthofArgumentsPassed/) | [2666. Allow One Function Call](./Day-05/2666-AllowOneFunctionCall/) |
-| **Day 6** | (Problem 11) | (Problem 12) |
+| **Day 6** | [2623. Memoize](./Day-06/2623-Memoize/) | [2723. Add Two Promises](./Day-06/2723-AddTwoPromises/) |
 | **Day 7** | (Problem 13) | (Problem 14) |
 | **Day 8** | (Problem 15) | (Problem 16) |
 | **Day 9** | (Problem 17) | (Problem 18) |
