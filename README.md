@@ -18,7 +18,7 @@ My goal is to complete two problems per day. Each solution folder contains:
 | **Day 4** | [2626. Array Reduce Transformation](./DAY-04/2626-ArrayReduceTransformation/) | [2629. Function Composition](./DAY-04/2629-FunctionComposition/) |
 | **Day 5** | [2703. Return Length of Arguments Passed](./Day-05/2703-ReturnLengthofArgumentsPassed/) | [2666. Allow One Function Call](./Day-05/2666-AllowOneFunctionCall/) |
 | **Day 6** | [2623. Memoize](./Day-06/2623-Memoize/) | [2723. Add Two Promises](./Day-06/2723-AddTwoPromises/) |
-| **Day 7** | (Problem 13) | (Problem 14) |
+| **Day 7** | [2621. Sleep](./Day-07/2621-Sleep/) | [2715. Timeout Cancellation](./Day-07/2715-TimeoutCancellation/) |
 | **Day 8** | (Problem 15) | (Problem 16) |
 | **Day 9** | (Problem 17) | (Problem 18) |
 | **Day 10** | (Problem 19) | (Problem 20) |
