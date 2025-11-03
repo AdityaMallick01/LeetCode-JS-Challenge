@@ -20,7 +20,7 @@ My goal is to complete two problems per day. Each solution folder contains:
 | **Day 6** | [2623. Memoize](./Day-06/2623-Memoize/) | [2723. Add Two Promises](./Day-06/2723-AddTwoPromises/) |
 | **Day 7** | [2621. Sleep](./Day-07/2621-Sleep/) | [2715. Timeout Cancellation](./Day-07/2715-TimeoutCancellation/) |
 | **Day 8** | [2725. Interval Cancellation](./Day-08/2725-IntervalCancellation/) | [2668. Promise Time Limit](./Day-08/2668-PromiseTimeLimit/) |
-| **Day 9** | (Problem 17) | (Problem 18) |
+| **Day 9** | [2622. Cache With Time Limit](./Day-09/2622-CacheWithTimeLimit/) | [2627. Debounce](./Day-09/2627-Debounce/) |
 | **Day 10** | (Problem 19) | (Problem 20) |
 | **Day 11** | (Problem 21) | (Problem 22) |
 | **Day 12** | (Problem 23) | (Problem 24) |
